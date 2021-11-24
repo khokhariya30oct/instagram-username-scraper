@@ -1,0 +1,10 @@
+{
+  "credential": {},
+  "endpoint": {
+    "login": "https://user.upfluence.co/login",
+    "homescreenUrl": "https://software.upfluence.co/lists/91936?status=selected"
+  },
+  "testData": {
+    "searchCategory": "Skincare,beauty 2000"
+  }
+}
